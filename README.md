@@ -2,13 +2,9 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🌱 I'm a 12-year-old boy!
-- ✨ I like learning and programming
-- 🧸 I'm currently learning python, JS, CSS
-
-### Name
-
-I go by the name of **Flexiston**.
+- 🎉 I'm a 12 years old boy.
+- ✨ I like learning and programming.
+- 🌱 I'm currently learning python, JS, CSS.
 
 ### Where To Find Me 🔍
 
@@ -22,4 +18,4 @@ I go by the name of **Flexiston**.
 
 [![Github Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFlexiston&longCache=true)](https://github.com/spencerwooo)
 
-🤣🤣🤣
+#### Nice to see you! 🤣🤣🤣
