@@ -4,7 +4,7 @@
 
 - 🎉 I'm a 12 years old boy.
 - ✨ I like learning and programming.
-- 🌱 I'm currently learning python, JS, CSS.
+- 🌱 I'm currently learning Python, JS, CSS.
 
 ### Where To Find Me 🔍
 
