@@ -8,7 +8,7 @@
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [Flexiston's Blog](https://flexiston.com)
+- 📝 My Blog: [Flexiston's Blog](https://flexiston.com) (Rebuilding...)
 - ✉️ Email: flexiston#qq.com (Replace # to @)
 - 🐤 Twittier: [@andy12462](https://twitter.com/andy12462)
 
