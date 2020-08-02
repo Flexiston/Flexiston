@@ -10,7 +10,7 @@
 
 - 📝 My Blog: [Flexiston's Blog](https://flexiston.com) (Rebuilding...)
 - ✉️ Email: flexiston#qq.com (Replace # to @)
-- 🐤 Twittier: [@andy12462](https://twitter.com/andy12462)
+- 🐤 Twitter: [@andy12462](https://twitter.com/andy12462) (No Any Things)
 
 ### Stats 🎈
 
