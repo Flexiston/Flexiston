@@ -4,6 +4,7 @@
 
 <a href="#">
   <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Flexiston&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <br>
 </a>
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
@@ -14,7 +15,7 @@
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**Flexiston's Blog**](https://flexiston.com)
+- 📝 My Blog: [**Flexiston's Blog**](https://blog.flexiston.com)
 - ✉️ Email: flexiston#qq.com (Replace # to @)
 - 🐤 Twitter: [@andy12462](https://twitter.com/andy12462) (No Any Things)
 
