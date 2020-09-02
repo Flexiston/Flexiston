@@ -15,7 +15,7 @@
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**Flexiston's Blog**](https://blog.flexiston.com)
+- 📝 My Blog: [**Flexiston's Blog**](https://blog.flesx.cn)
 - ✉️ Email: flexiston#qq.com (Replace # to @)
 - 🐤 Twitter: [@andy12462](https://twitter.com/andy12462) (No Any Things)
 
